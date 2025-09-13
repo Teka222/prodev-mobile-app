@@ -1,0 +1,1 @@
+export const FACEBOOKLOGO = require("@/assets/images/facebook.png");
